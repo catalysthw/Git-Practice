@@ -19,7 +19,7 @@ return 0
 
 
 link is written as follow
-[link_name](https://blog.naver.com/dkfjalsfs)
+[link_name](https://www.youtube.com/watch?v=xEFfu1zsJ_U&list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81&index=14)
 
 
 * Git tutorial
